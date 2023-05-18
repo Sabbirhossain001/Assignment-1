@@ -1,0 +1,110 @@
+ .section1 {
+     background-image: url(images/donation7.jpg);
+     background-position: center;
+
+
+ }
+
+ .tag1 {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 80px;
+     color: white;
+     text-align: center;
+     margin: 0px;
+     padding: 200px 10% 0px 10%;
+ }
+
+ .paragraph1 {
+     font-size: 30px;
+     color: white;
+     text-align: center;
+     padding-bottom: 20px;
+ }
+
+ .button1 {
+     color: white;
+     background-image: linear-gradient(tomato, tomato);
+     background-position: center;
+     font-weight: 800;
+     padding: 22px 40px;
+     border-radius: 5px;
+     text-decoration: none;
+     font-size: 30px;
+ }
+
+ .button {
+     text-align: center;
+     padding-bottom: 80px;
+     padding-top: 0%;
+ }
+
+ .tag2 {
+     text-align: center;
+     font-weight: 1000;
+     font-size: 60px;
+     font-family: 'Times New Roman', Times, serif;
+     padding-top: 50px;
+     padding-bottom: 0%;
+ }
+
+ .paragraph2 {
+     text-align: center;
+     padding-left: 300px;
+     padding-right: 250px;
+     font-family: 'Kanit', sans-serif;
+     font-family: 'Poppins', sans-serif;
+
+ }
+
+ .button2 {
+     display: flex;
+     margin-left: 250px;
+ }
+
+ .tk1 {
+     color: gray;
+     background-color: rgb(242, 247, 242);
+     background-position: left;
+     font-weight: 800;
+     padding: 22px 40px;
+     border-radius: 5px;
+     text-decoration: none;
+     font-size: 30px;
+     margin-right: 50px;
+ }
+
+ .tk2 {
+     color: red;
+     background-color: rgb(248, 237, 239);
+     background-position: left;
+     font-weight: 800;
+     padding: 22px 40px;
+     border-radius: 5px;
+     text-decoration: none;
+     font-size: 30px;
+     margin-right: 50px;
+     border: 2px solid red;
+ }
+
+ .form-inline {
+     padding-top: 50px;
+     text-align: center;
+     flex-flow: row wrap;
+     align-items: center;
+ }
+
+ .button3 {
+     color: white;
+     background-image: linear-gradient(tomato, tomato);
+     background-position: center;
+     font-weight: 800;
+     padding: 22px 40px;
+     border-radius: 5px;
+     text-decoration: none;
+     font-size: 30px;
+ }
+
+ .submit {
+     padding-top: 40px;
+     text-align: center;
+ }
