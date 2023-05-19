@@ -128,7 +128,7 @@
  .donate-plan {
      display: flex;
      margin-top: 50px;
-     margin-left: 150px;
+     margin-left: 100px;
      margin-right: 150px;
 
  }
@@ -288,8 +288,7 @@
      background-color: rgb(231, 231, 189);
      height: 150px;
      width: fit-content;
-     margin-left: 410px;
-     padding-left: 0px;
+     margin-left: 250px;
  }
 
  .submit2 {
