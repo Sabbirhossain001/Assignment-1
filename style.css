@@ -1,10 +1,12 @@
  .section1 {
      background-image: url(images/donation7.jpg);
-     background-position: justify;
-     background-size: justify;
-     height: 780px;
+     background-image: linear-gradient(to bottom left, black);
+     height: 800px;
+     margin-left: 0%;
+     margin-right: 0%;
 
  }
+
 
  .tag1 {
      font-family: 'Dancing Script', cursive;
