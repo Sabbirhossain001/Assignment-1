@@ -65,8 +65,7 @@
 
  .button2 {
      display: flex;
-     margin-left: 250px;
-     margin-right: 250px;
+     margin-left: 350px;
      margin-top: 50px;
  }
 
@@ -89,6 +88,16 @@
      font-size: 30px;
      margin-right: 50px;
      border: 2px solid red;
+ }
+
+ .tk3 {
+     color: gray;
+     background-color: rgb(242, 247, 242);
+     font-weight: 800;
+     padding: 22px 40px;
+     border-radius: 5px;
+     font-size: 30px;
+     margin-right: 350px;
  }
 
  .form-inline {
@@ -129,7 +138,7 @@
  .donate-plan {
      display: flex;
      margin-top: 50px;
-     margin-left: 150px;
+     margin-left: 200px;
      margin-right: 150px;
 
  }
