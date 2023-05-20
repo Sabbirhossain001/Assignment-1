@@ -223,11 +223,17 @@
  }
 
  .donation-part5 {
-     padding-left: 160px;
+     margin-left: 35%;
      padding-top: 50px;
      height: 600px;
      width: 600px;
 
+ }
+
+ .donation-part6 {
+     margin-left: 25%;
+     margin-right: 10%;
+     margin-top: 5%;
  }
 
  .subscribe {
