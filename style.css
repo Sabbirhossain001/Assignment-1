@@ -1,9 +1,13 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
  .section1 {
-     background-image: url(images/donation7.jpg);
-     background-image: linear-gradient(to bottom left, black);
-     height: 800px;
-     margin-left: 0%;
-     margin-right: 0%;
+     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(images/donation7.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 100vh;
 
  }
 
@@ -17,7 +21,7 @@
      color: white;
      text-align: center;
      margin: 0px;
-     padding-top: 170px;
+     padding-top: 310px;
      padding-left: 50px;
      padding-right: 50px;
  }
@@ -48,58 +52,56 @@
      margin-top: 70px;
  }
 
+
  .tag2 {
      text-align: center;
      font-size: 60px;
      font-family: 'Times New Roman', Times, serif;
-     margin-top: 100px;
+     margin-top: 7%;
  }
 
  .paragraph2 {
      text-align: center;
-     margin-left: 300px;
-     margin-right: 300px;
      font-family: 'Kanit', sans-serif;
      font-family: 'Poppins', sans-serif;
-
+     margin-top: 1%;
  }
 
  .button2 {
      display: flex;
-     margin-left: 350px;
-     margin-top: 50px;
+     margin-left: 12%;
+     margin-top: 2%;
  }
 
  .tk1 {
      color: gray;
+     text-align: center;
      background-color: rgb(242, 247, 242);
-     font-weight: 800;
-     padding: 22px 40px;
+     font-weight: 600;
+     padding: 25px 50px;
      border-radius: 5px;
-     font-size: 30px;
-     margin-right: 50px;
+     font-size: 60px;
+     margin-right: 3%;
+     padding-top: 4%;
+     height: 150px;
+     width: 200px;
  }
 
  .tk2 {
      color: red;
+     text-align: center;
      background-color: rgb(248, 237, 239);
      font-weight: 800;
      padding: 22px 40px;
      border-radius: 5px;
-     font-size: 30px;
-     margin-right: 50px;
+     font-size: 60px;
      border: 2px solid red;
+     margin-right: 3%;
+     padding-top: 4%;
+     height: 150px;
+     width: 200px;
  }
 
- .tk3 {
-     color: gray;
-     background-color: rgb(242, 247, 242);
-     font-weight: 800;
-     padding: 22px 40px;
-     border-radius: 5px;
-     font-size: 30px;
-     margin-right: 350px;
- }
 
  .form-inline {
      margin-top: 50px;
@@ -138,54 +140,50 @@
 
  .donate-plan {
      display: flex;
-     margin-top: 50px;
-     margin-left: 200px;
-     margin-right: 150px;
-
+     margin-top: 3%;
+     margin-left: 5%;
  }
 
  .food-for-family {
      color: rgb(8, 0, 0);
      background-color: rgb(242, 247, 242);
      background-position: center;
-     padding: 60px 2px;
-     border-radius: 0px;
-     text-decoration: none;
      font-size: 20px;
-     margin-right: 50px;
-     padding-right: 20px;
-     padding-left: 20px;
+     margin-right: 5%;
+     padding-right: 3%px;
+     padding-left: 2%;
+     padding-top: 5%;
+     height: 300px;
+
  }
 
  .shelter-for-family {
      color: rgb(8, 0, 0);
      background-color: rgb(247, 241, 242);
      background-position: center;
-     padding: 60px 2px;
-     border-radius: 0px;
-     text-decoration: none;
      font-size: 20px;
-     margin-right: 50px;
-     padding-right: 20px;
-     padding-left: 20px;
+     margin-right: 5%;
+     padding-right: 3%px;
+     padding-left: 2%;
+     padding-top: 5%;
+     height: 300px;
  }
 
  .education-for-child {
      color: rgb(8, 0, 0);
      background-color: rgb(245, 245, 206);
      background-position: center;
-     padding: 60px 2px;
-     border-radius: 0px;
-     text-decoration: none;
      font-size: 20px;
-     margin-right: 50px;
-     padding-right: 20px;
-     padding-left: 20px;
+     margin-right: 5%;
+     padding-right: 3%px;
+     padding-left: 2%;
+     padding-top: 5%;
+     height: 300px;
  }
 
  #donation-part {
      display: flex;
-     margin-top: 100px;
+     margin-top: 7%;
  }
 
  .button4 {
@@ -201,10 +199,9 @@
  }
 
  .donation-part2 {
-     margin-left: 150px;
-     margin-right: 150px;
-     margin-top: 60px;
-
+     margin-left: 10%;
+     margin-right: 20%;
+     margin-top: 4%;
  }
 
  .button5 {
@@ -214,12 +211,13 @@
  .donation-part3 {
      font-size: 50px;
      font-weight: bold;
+     margin-top: 5%;
  }
 
  .donation-part4 {
-     margin-right: 100px;
-     height: 500px;
-     width: 500px;
+     margin-right: 200px;
+     height: 600px;
+     width: 600px;
      padding-top: 50px;
 
  }
@@ -227,8 +225,8 @@
  .donation-part5 {
      padding-left: 160px;
      padding-top: 50px;
-     height: 500px;
-     width: 500px;
+     height: 600px;
+     width: 600px;
 
  }
 
@@ -253,7 +251,7 @@
      text-align: justify;
      font-family: 'Kanit', sans-serif;
      font-family: 'Poppins', sans-serif;
-
+     margin-top: 2%;
  }
 
  footer {
@@ -293,13 +291,13 @@
  }
 
  .background {
-     margin-top: 50px;
+     margin-top: 5%;
      padding-top: 80px;
      padding-right: 200px;
      background-color: rgb(231, 231, 189);
      height: 150px;
      width: fit-content;
-     margin-left: 250px;
+     margin-left: 30%;
  }
 
  .submit2 {
